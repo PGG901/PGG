@@ -1,0 +1,387 @@
+RANK,Fecha,Component Code,Problem Description,Volume,SQ,In Process- NDF,FPY,CAL,SIR 1 MIS,n.,PPM
+B,ago - dic 2019,"
+LABEL - 10 YEARS WARRANTY
+",Mal impresa,"109,784",402,0,0,0,0,402,"3,662"
+AA,ago - dic 2019,ACTUATOR - SHIFT,En corto / Falla funcional,"109,784",1,0,2,0,22,25,228
+A,ago - dic 2019,ACTUATOR - SHIFT,Dañado / agrietado / golpeado / quebrado,"109,784",2,20,6,0,5,33,301
+B,ago - dic 2019,ACTUATOR - SHIFT,Fuera de posición,"109,784",0,2,2,0,2,6,55
+B,ago - dic 2019,ACTUATOR - SHIFT,Dañado // No detecta movimiento // sensor,"109,784",2,0,0,0,1,3,27
+C,ago - dic 2019,ACTUATOR - SHIFT,Ciclo lento,"109,784",2,0,2,0,0,4,36
+C,ago - dic 2019,ACTUATOR - SHIFT,Omision Ausente,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,ACTUATOR - SHIFT,Conector ausente / Omision ensambke,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,ACTUATOR - SHIFT,Pin elevado,"109,784",1,0,0,0,0,1,9
+AA,ago - dic 2019,ACU,LONG DRAIN / Flujo,"109,784",125,0,0,0,30,155,"1,412"
+AA,ago - dic 2019,ACU,Falla funcional,"109,784",15,0,152,0,0,167,"1,521"
+AA,ago - dic 2019,ACU,Mal programado en línea,"109,784",0,14,56,0,0,70,638
+A,ago - dic 2019,ACU,Conector mal ensamblado / sin ensamblar,"109,784",0,2,38,0,0,40,364
+A,ago - dic 2019,ACU,No realiza prueba / Falla en prueba,"109,784",55,22,0,0,0,77,701
+B,ago - dic 2019,ACU,En corto,"109,784",1,0,0,1,1,3,27
+B,ago - dic 2019,ACU,Dañado,"109,784",5,0,0,0,1,2,18
+B,ago - dic 2019,ACU,Desajustado,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,ACU,Marca spin corriente / corriente 0 no realiza spin,"109,784",22,0,0,0,0,22,200
+C,ago - dic 2019,ACU,Conector invertido,"109,784",0,0,4,0,0,4,36
+C,ago - dic 2019,ACU,No enciende,"109,784",16,0,0,0,0,16,146
+C,ago - dic 2019,ACU,No entra cable en data,"109,784",12,0,0,0,0,12,109
+C,ago - dic 2019,ACU,Dreno sin terminar ciclo,"109,784",12,0,0,0,0,12,109
+C,ago - dic 2019,ACU,Conector quebrado / Conector dañado,"109,784",1,0,2,0,0,3,27
+C,ago - dic 2019,ACU,Conector equivocado,"109,784",6,0,0,0,0,6,55
+C,ago - dic 2019,ACU,Leds encendidos (dañada),"109,784",6,0,0,0,0,6,55
+C,ago - dic 2019,ACU,LED,"109,784",5,0,0,0,0,5,46
+C,ago - dic 2019,ACU,Valvula 2 corriente 82 / valvula corriente,"109,784",4,0,0,0,0,4,36
+C,ago - dic 2019,ACU,Falla de programación,"109,784",3,0,0,0,0,3,27
+C,ago - dic 2019,ACU,Agitacion CWW / falla agitación motor,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,ACU,Bomba de vacio,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,ACU,CCW corriente,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,ACU,Falla en llenado,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,ACU,Falta de pin / pin dañado,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,ACU,Nivel de agua,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,ACU,CCW Motor de corriente,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,ACU,Error en lavado,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,ACU,Falla conector para prueba data,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,ACU,No descandadea unidad,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,ACU,Sin corriente,"109,784",1,0,0,0,0,1,9
+B,ago - dic 2019,ACU //Actuador,En corto,"109,784",0,0,0,0,1,1,9
+A,ago - dic 2019,ACU//Bomba,En corto,"109,784",0,0,16,0,1,17,155
+A,ago - dic 2019,AGITADOR,Suelto / Mal ensamble / Sin ensamblar,"109,784",0,30,22,1,4,57,519
+A,ago - dic 2019,AGITADOR,Equivocado,"109,784",24,95,0,0,0,119,"1,084"
+B,ago - dic 2019,AGITADOR,Roto,"109,784",0,1,1,0,2,4,36
+B,ago - dic 2019,AGITADOR,Tornillo barrido / falta de torque,"109,784",0,16,4,0,0,20,182
+C,ago - dic 2019,AGITADOR,Ausente,"109,784",0,15,0,0,0,15,137
+C,ago - dic 2019,AGITADOR,Tornillo adicional,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,AGITADOR,Gap,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,AGITADOR,Pandeado,"109,784",0,1,2,0,0,3,27
+C,ago - dic 2019,AGITADOR,Tornillo ausente,"109,784",0,4,0,0,0,4,36
+C,ago - dic 2019,AGITADOR,Pestaña quebrada,"109,784",0,1,0,0,0,1,9
+B,ago - dic 2019,Agitador couple,Tornillo barrido,"109,784",0,61,17,0,0,78,710
+C,ago - dic 2019,Agitador couple,Tornillo falta de torque,"109,784",0.00,7,0,0,0,7,64
+C,ago - dic 2019,Air dome,Ausente,"109,784",0,4,3,0,0,7,64
+C,ago - dic 2019,Air dome,Mal ensamble,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,ARNES,Sin continuidad,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,ARNES,Clip fuera de especificación,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,ARNES,Terminal suelta,"109,784",4,0,0,0,0,4,36
+C,ago - dic 2019,ARNES,Fuera de especificación,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,ARNES,Cable expuesto - recubrimiento corto,"109,784",1,0,0,0,0,1,9
+B,ago - dic 2019,ARNES ACTUADOR,Trozado / Roto,"109,784",1,3,5,0,3,12,109
+B,ago - dic 2019,ARNES ACTUADOR,Desconectado,"109,784",0,1,0,0,3,4,36
+C,ago - dic 2019,ARNES ACTUADOR,Enredado / atrapado,"109,784",0,1,3,0,0,4,36
+A,ago - dic 2019,ARNES BOMBA,Desconectado,"109,784",0,0,0,0,6,6,55
+A,ago - dic 2019,ARNES CABLE DE PODER,Desconectado,"109,784",0,0,0,0,7,7,64
+C,ago - dic 2019,ARNES CABLE DE PODER,Clip ausente/ Omision de ensamble,"109,784",0,2,1,0,0,3,27
+C,ago - dic 2019,ARNES CABLE DE PODER,Clip sin ensamblar,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,ARNES CABLE DE PODER,Dañado,"109,784",0,1,0,0,0,1,9
+AA,ago - dic 2019,Arnes cable de tierra,Tornillos barridos,"109,784",0,4,47,0,0,51,465
+B,ago - dic 2019,Arnes cable de tierra,Cable roto,"109,784",0,1,12,0,0,13,118
+C,ago - dic 2019,Arnes cable de tierra,Enredado / atrapado,"109,784",0,1,2,0,0,3,27
+C,ago - dic 2019,Arnes cable de tierra,Conector con rebaba,"109,784",0,1,1,0,0,2,18
+C,ago - dic 2019,Arnes cable de tierra,Dañado,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,Arnes cable de tierra,Falla funcional,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Arnes cable de tierra,Tornillo ausente,"109,784",0,0,1,0,0,1,9
+A,ago - dic 2019,ARNES DE CAPACITOR,Desconectado,"109,784",0,3,3,0,7,13,118
+B,ago - dic 2019,ARNES DE CAPACITOR,Cable roto,"109,784",0,0,15,0,0,15,137
+C,ago - dic 2019,ARNES DE CAPACITOR,Conector quebrado,"109,784",0,1,4,0,0,5,46
+C,ago - dic 2019,ARNES DE CAPACITOR,Conector con rebaba,"109,784",0,1,1,0,0,2,18
+C,ago - dic 2019,ARNES DE CAPACITOR,Arnes atrapado,"109,784",0,0,1,0,0,1,9
+A,ago - dic 2019,ARNES DE MOTOR,Desconectado,"109,784",0,2,3,0,6,11,100
+C,ago - dic 2019,ARNES DE MOTOR,Enredado / atrapado,"109,784",0,1,2,0,0,3,27
+C,ago - dic 2019,ARNES DE MOTOR,No de parte equivocado,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,ARNES DE MOTOR,Cable roto,"109,784",0,0,1,0,0,1,9
+AA,ago - dic 2019,ARNES DE VÁLVULA,Desconectado,"109,784",0,2,2,0,10,14,128
+C,ago - dic 2019,Arnes lower,Dañado,"109,784",0,0,0,1,0,1,9
+B,ago - dic 2019,Arnes principal,Mal ensamblado,"109,784",0,2,0,1,0,3,27
+C,ago - dic 2019,Arnes principal,Dañado,"109,784",0,4,0,0,0,4,36
+C,ago - dic 2019,Arnes upper,Pin dañado,"109,784",0,3,0,0,0,3,27
+B,ago - dic 2019,Auger agitador,Quebrado / pestaña quebrada,"109,784",0,3,20,0,0,23,210
+C,ago - dic 2019,Auger agitador,Ausente,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,BALERO,Fuera de posición,"109,784",0,0,0,0,1,1,9
+B,ago - dic 2019,BANDA,Suelta / Mal colocada,"109,784",0,1,1,0,8,10,91
+C,ago - dic 2019,BANDA,Ausente,"109,784",0,6,11,0,0,17,155
+C,ago - dic 2019,BASE PROT-PACKAGIN,Dañada en tarima,"109,784",9,0,0,0,0,9,82
+C,ago - dic 2019,BASE PROT-PACKAGIN,Despegada,"109,784",6,0,0,0,0,6,55
+C,ago - dic 2019,BASE PROT-PACKAGIN,Falta EPS,"109,784",3,0,0,0,0,3,27
+C,ago - dic 2019,BASE PROT-PACKAGIN,Fuera de dimensión,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,BOBINA DE VALVULA,Agrietada,"109,784",0,0,0,0,1,1,9
+AA,ago - dic 2019,BOLAS DE SUSPENSIÓN,Rotas,"109,784",0,2,3,0,19,33,301
+C,ago - dic 2019,BOLAS DE SUSPENSIÓN,Sueltas,"109,784",0,0,0,0,1,1,9
+A,ago - dic 2019,BOMBA,Quebrada,"109,784",0,13,8,0,3,24,219
+B,ago - dic 2019,BOMBA,En corto / no activa,"109,784",1,0,0,0,3,4,36
+B,ago - dic 2019,BOMBA,Abierta,"109,784",0,0,0,0,3,3,27
+B,ago - dic 2019,BOMBA,Dañada,"109,784",0,0,0,0,2,2,18
+C,ago - dic 2019,BOMBA,Quemada,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,BOMBA,Abrazadera mal ensamblada,"109,784",0,11,0,0,0,11,100
+C,ago - dic 2019,BOMBA,Manguera dañada,"109,784",0,0,0,1,0,1,9
+C,ago - dic 2019,BOMBA,conector dañado,"109,784",0,0,3,0,0,3,27
+C,ago - dic 2019,BOMBA,Manguera mal ensamblada,"109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,BOMBA,Tornillo ausente,"109,784",0,1,1,0,0,2,18
+C,ago - dic 2019,BOMBA,Mal ensamblada,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,BOMBA // ACU,En corto,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,Bracket housing,Tornillo ausente,"109,784",0,0,3,0,0,3,27
+C,ago - dic 2019,Bracket housing,Tornillo falta de torque,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,Bracket housing,Pestaña deforme,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,Bracket housing,Tiro corto,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,Bracket metalico,Agrietado,"109,784",0,34,0,0,0,34,310
+C,ago - dic 2019,Bracket metalico,Tornillo ausente,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,Bumper,Ausente,"109,784",0,3,0,0,0,3,27
+C,ago - dic 2019,Cable poder,Clip Ausente,"109,784",23,0,0,0,0,23,210
+C,ago - dic 2019,Cable poder,Tornillo Barrido,"109,784",0,7,0,0,0,7,64
+C,ago - dic 2019,Cable poder,Clip sin ensamblar,"109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,Cable poder,Terminal doblada,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Cable poder,Falla funcional,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,Cable poder,Distancia de clip corta,"109,784",1,0,0,0,0,1,9
+A,ago - dic 2019,CAM SPLUTCH,Fuera de posición / Mal ensamble,"109,784",0,4,5,3,17,29,264
+C,ago - dic 2019,CAM SPLUTCH,Quebrado,"109,784",0,1,0,0,1,2,18
+C,ago - dic 2019,Canasta drum,Mal clinchada,"109,784",0,8,0,0,0,8,73
+C,ago - dic 2019,Canasta drum,Mal rectificado,"109,784",0,5,0,0,0,5,46
+C,ago - dic 2019,Canasta drum,Mal ensamble,"109,784",0,2,1,0,0,3,27
+C,ago - dic 2019,Canasta drum,Golpeada,"109,784",0,1,1,0,0,2,18
+C,ago - dic 2019,Canasta drum,Fuera de especificación,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,Canasta drum,Base golpeado / quebrado,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Canasta drum,Balance golpeado / quebrado,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Canasta drum,Mal ensamble de tapón en balance ring,"109,784",0,1,0,0,0,1,9
+B,ago - dic 2019,CAP HINGE,Rayadas,"109,784",535,0,0,0,0,535,"4,873"
+B,ago - dic 2019,CAP HINGE,Equivocado,"109,784",242,0,0,0,0,242,"2,204"
+C,ago - dic 2019,CAP HINGE,Quebrado,"109,784",2,0,0,0,0,2,18
+B,ago - dic 2019,CAPACITOR,Dañado / Quebrado,"109,784",0,1,1,0,1,3,27
+C,ago - dic 2019,CAPACITOR,Conector invertido,"109,784",45,0,0,0,0,45,410
+C,ago - dic 2019,CAPACITOR,Terminal doblada,"109,784",0,9,1,0,0,10,91
+C,ago - dic 2019,CAPACITOR,Falla funcional,"109,784",1,0,5,0,0,6,55
+C,ago - dic 2019,CAPACITOR,Fuera de especificación,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,CAPACITOR,Conector dañado,"109,784",2,1,0,0,0,3,27
+C,ago - dic 2019,CAPACITOR,Mal ensamble,"109,784",4,0,0,0,0,4,36
+C,ago - dic 2019,Carton tag,Ausente,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,Chanel bottom,Incompleto,"109,784",0,0,5,0,0,5,46
+C,ago - dic 2019,Channel top rear,Agrietado,"109,784",0,7,0,0,0,7,64
+C,ago - dic 2019,Clip arnes blanco,Mal ensamble,"109,784",0,3,0,0,0,3,27
+AA,ago - dic 2019,Cover hinge assy,Lid baja rápido / Falta de torque,"109,784",702,0,0,0,0,702,"6,394"
+A,ago - dic 2019,Cover hinge assy,Tiro corto,"109,784",205,0,0,0,0,205,"1,867"
+C,ago - dic 2019,Cover hinge assy,Tono diferente,"109,784",41,0,0,0,0,41,373
+B,ago - dic 2019,Cover hinge LH y RH,Tono diferente,"109,784",551,0,0,0,0,551,"5,019"
+C,ago - dic 2019,Cover hinge LH y RH,Equivocado,"109,784",39,2,1,0,0,42,383
+C,ago - dic 2019,Cover hinge LH y RH,Rebaba,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,Cover hinge LH y RH,Tiro corto,"109,784",2,0,0,0,0,2,18
+B,ago - dic 2019,COVER PULLEY,Suelto,"109,784",0,0,0,0,3,3,27
+C,ago - dic 2019,COVER PULLEY,Flojo / falta de torque / Tornillo ausente,"109,784",0,6,6,0,1,13,118
+C,ago - dic 2019,COVER PULLEY,Fuera de posición,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,COVER PULLEY,Ausente,"109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,COVER PULLEY,Quebrado,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,COVER PULLEY,Poste deforme,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,CUP DISPENSER,Fuera de posición,"109,784",0,0,0,0,1,1,9
+B,ago - dic 2019,DISPENSADOR,Roto,"109,784",0,0,5,0,2,7,64
+C,ago - dic 2019,DISPENSADOR,Fuera de posición,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,DISPENSADOR,Tono diferente,"109,784",33,0,0,0,0,33,301
+C,ago - dic 2019,DISPENSADOR,Mal ensamble,"109,784",31,0,0,0,0,31,282
+C,ago - dic 2019,DISPENSADOR,Deforme,"109,784",6,2,0,0,0,8,73
+C,ago - dic 2019,DISPENSADOR,Tornillo ausente,"109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,DISPENSADOR,No de parte equivocado,"109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,DISPENSADOR,Falta de syphon,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,DISPENSADOR,Ausente,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,DISPENSADOR,Tiro corto,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,Dispenser sencillo,Ausente en agitador,"109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,Dispenser sencillo,Mal ensamblado,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Encoder,Mal ensamble / sin ensamblar,"109,784",0,8,1,0,0,9,82
+C,ago - dic 2019,Encoder,Invertido,"109,784",0,3,3,0,0,6,55
+C,ago - dic 2019,Encoder,Falla funcional / no inicia prueba,"109,784",2,0,1,0,0,3,27
+C,ago - dic 2019,Etiqueta autolevel,Ausente,"109,784",0,3,0,0,0,3,27
+C,ago - dic 2019,Etiqueta autolevel,Burbuja,"109,784",0,3,0,0,0,3,27
+C,ago - dic 2019,Etiqueta capacidad,Ausente,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,Etiqueta conagua,Ausentes,"109,784",0,3,1,0,0,4,36
+C,ago - dic 2019,Etiqueta de advertencia,Incompleto,"109,784",0,15,0,0,0,15,137
+C,ago - dic 2019,Etiqueta de advertencia,Despegado,"109,784",0,3,0,0,0,3,27
+C,ago - dic 2019,Etiqueta de atención,Ausentes,"109,784",0,2,1,0,0,3,27
+C,ago - dic 2019,Etiqueta de energía,Ausente,"109,784",0,30,6,0,0,36,328
+C,ago - dic 2019,Etiqueta garanía,Ausente,"109,784",0,7,0,0,0,7,64
+C,ago - dic 2019,Etiqueta Serial,Ausente,"109,784",0,1,0,0,0,1,9
+A,ago - dic 2019,Fascia,Serigrafía incompleta,"109,784",40,155,7,0,0,202,"1,84"
+B,ago - dic 2019,Fascia,Modelo equivocado,"109,784",14,21,3,0,0,38,346
+B,ago - dic 2019,Fascia,Serigrafía movida,"109,784",3,3,8,0,0,14,128
+B,ago - dic 2019,Fascia,Boton trabado,"109,784",0,0,0,0,1,1,9
+B,ago - dic 2019,Fascia,Overlay con burbuja / grumo,"109,784",43,13,11,0,0,67,610
+B,ago - dic 2019,Fascia,Conector mal ensamblado encoder / sin ensamblar,"109,784",0,8,2,0,0,10,91
+C,ago - dic 2019,Fascia,Overlay marcado / Rayado,"109,784",29,0,0,0,0,29,264
+C,ago - dic 2019,Fascia,Perilla ausente,"109,784",0,3,4,0,0,7,64
+C,ago - dic 2019,Fascia,Led opaco,"109,784",24,0,0,0,0,24,219
+C,ago - dic 2019,Fascia,Golpe/quebrado,"109,784",22,0,0,0,0,22,200
+C,ago - dic 2019,Fascia,Poste deforme,"109,784",0,3,0,0,0,3,27
+C,ago - dic 2019,Fascia,Botón fuera de especificación,"109,784",5,1,0,0,0,6,55
+C,ago - dic 2019,Fascia,Tiro corto,"109,784",3,1,0,0,0,4,36
+C,ago - dic 2019,Fascia,Perilla número de parte equivocado,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,Fascia,Cable roto de encoder,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Fascia,Contaminada,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Fascia,Overlay despegado,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Fascia,Rebaba,"109,784",3,0,0,0,0,3,27
+C,ago - dic 2019,Fascia,Poste quebrado,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,Fascia,Overlay movido,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,Fascia,Pandeada,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,Fascia,Orificio tapado,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,Gabinetes,Doblez deformado,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,Gabinetes,Marca de rebaba,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Gabinetes,Desprendimiento de pintura,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Impeller,Tornillo barrido,"109,784",0,10,2,0,0,12,109
+C,ago - dic 2019,Impeller,Rebaba,"109,784",3,0,3,0,0,6,55
+C,ago - dic 2019,Impeller,Mal ensamble a base basket / pre-colocación de tornillo,"109,784",0,2,0,0,0,2,18
+AA,ago - dic 2019,Inner tray,Rotos,"109,784","10,115",0,0,0,0,"10,115","92,135"
+A,ago - dic 2019,Inner tray,Fuera de especificación / Deformes / Falta pestaña / Mal cortada / Mal troquedala / Incompleta,"109,784","1,273",0,0,0,0,"1,273","11,595"
+A,ago - dic 2019,Inner tray,Despegados,"109,784",664,0,0,0,0,664,"6,048"
+B,ago - dic 2019,Inner tray,Se trozan al doblar,"109,784",313,0,0,0,0,313,"2,851"
+C,ago - dic 2019,Inner tray,Carton duro,"109,784",22,0,0,0,0,22,200
+C,ago - dic 2019,Inner tray,Mal pegadas,"109,784",4,0,0,0,0,4,36
+C,ago - dic 2019,LABEL - PROD REG,Mal impresa,"109,784",23,0,0,0,0,23,210
+B,ago - dic 2019,LABEL SCALE LEVEL,Equivocado,"109,784",500,10,0,0,0,510,"4,645"
+C,ago - dic 2019,LABEL SCALE LEVEL,Ausentes,"109,784",0,9,7,0,0,16,146
+C,ago - dic 2019,LABEL SCALE LEVEL,Mal posicionado,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,LABEL SCALE LEVEL,Colocada al reves,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,LABEL SCALE LEVEL,Despegado,"109,784",0,1,0,0,0,1,9
+AA,ago - dic 2019,LID,Ruido,"109,784",0,0,0,1,7,8,73
+C,ago - dic 2019,LID,"Golpeado, agrietado, quebrado","109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,LID,Bumper ausente,"109,784",2,2,0,0,0,4,36
+C,ago - dic 2019,LID,Mal ensamble de bisagras,"109,784",0,1,1,0,0,2,18
+C,ago - dic 2019,LID,Contaminado,"109,784",0,0,1,0,0,1,9
+A,ago - dic 2019,LID LOCK,En corto / No candadea / Falla funcional,"109,784",1,0,5,0,3,9,82
+B,ago - dic 2019,LID LOCK,Fuera de posición,"109,784",0,1,2,0,1,4,36
+B,ago - dic 2019,LID LOCK,Desajustado,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,LID LOCK,Candadeado/Activado,"109,784",7,0,0,0,0,7,64
+C,ago - dic 2019,LID LOCK,Tiro corto,"109,784",4,0,0,0,0,4,36
+C,ago - dic 2019,LID LOCK,Quebrado / dañado,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,LID LOCK,Falta cincho,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,LID LOCK,Cable expuesto,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,LID LOCK,Se apaga unidad,"109,784",1,0,0,0,0,1,9
+B,ago - dic 2019,Lid metalico,Tornillo mal ensamblado,"109,784",0,40,3,0,0,43,392
+C,ago - dic 2019,Lid metalico,Tornillo ausente,"109,784",0,1,2,0,0,3,27
+C,ago - dic 2019,Lid metalico,Golpeado,"109,784",0,1,1,0,0,2,18
+C,ago - dic 2019,Lid metalico,Visagra con mal ensamble,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Lid metalico,Bumper ausente,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Lid metalico,Strike hook ausente,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Lid metalico,Strike hook mal ensamblado,"109,784",0,1,0,0,0,1,9
+AA,ago - dic 2019,Lid Plastico,Bisagra mal ensamble,"109,784",0,120,0,0,0,120,"1,093"
+B,ago - dic 2019,Lid Plastico,Hinge bracket equivocado,"109,784",0,48,0,0,0,48,437
+B,ago - dic 2019,Lid Plastico,Equivocado,"109,784",24,7,0,0,0,31,282
+C,ago - dic 2019,Lid Plastico,Dañado / rayado,"109,784",5,1,0,0,0,6,55
+C,ago - dic 2019,Lid Plastico,Cover hinge equivocado,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,Lid Plastico,Bumper mal ensamblado,"109,784",1,0,0,0,0,1,9
+B,ago - dic 2019,Lid vidrio,Esquina despegada / Lid despegado,"109,784",2,0,0,1,0,3,27
+AA,ago - dic 2019,MANGUERA APS,Doblada,"109,784",702,0,0,0,1,703,"6,403"
+B,ago - dic 2019,MANGUERA APS,Desconectada / sin ensamblar,"109,784",0,3,4,0,1,8,73
+C,ago - dic 2019,MANGUERA APS,Contaminación / sucias,"109,784",0,2,1,0,0,3,27
+C,ago - dic 2019,MANGUERA DE DRENADO,Faltante,"109,784",0,0,0,0,2,2,18
+C,ago - dic 2019,MANGUERA DE DRENADO,Rota,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,MANGUERA DE DRENADO,Falta de guía,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,MANGUERA DE DRENADO Tina a Bomba,Rota,"109,784",0,0,0,1,1,2,18
+C,ago - dic 2019,MANGUERAS DE LLENADO,Tamaño diferente al requerido,"109,784",0,0,0,0,1,1,9
+AA,ago - dic 2019,Mega,Falla funcional / no enciende,"109,784",4,69,66,0,0,139,"1,266"
+B,ago - dic 2019,Mega,Quebrada / rayada / golpeada,"109,784",0,0,9,0,0,9,82
+C,ago - dic 2019,Mega,Leds encendidos (dañada),"109,784",3,0,0,1,0,4,36
+C,ago - dic 2019,Mega,Falla de led,"109,784",2,1,4,0,0,7,64
+C,ago - dic 2019,Mega,Conector mal ensamblado / sin ensamblar,"109,784",2,1,1,0,0,4,36
+C,ago - dic 2019,Mega,Boton ausente,"109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,Mega,Conector quebrado,"109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,Mega,No realiza prueba,"109,784",4,1,0,0,0,5,46
+C,ago - dic 2019,Mega,Dañado,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,Mega,Arnes dañado,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,Mega,Led candado equivocado,"109,784",1,0,0,0,0,1,9
+AA,ago - dic 2019,MOTOR,Tornillo barrido / Falta de torque,"109,784",0,21,56,0,0,77,701
+A,ago - dic 2019,MOTOR,En corto / falla funcional,"109,784",2,0,8,0,2,12,109
+B,ago - dic 2019,MOTOR,Ruido,"109,784",2,0,0,1,0,3,27
+B,ago - dic 2019,MOTOR,Tornillo ausente,"109,784",2,1,5,0,0,8,73
+C,ago - dic 2019,MOTOR,Agrietados / con golpes / quebrados,"109,784",0,2,3,0,0,5,46
+C,ago - dic 2019,MOTOR,Cable suelto,"109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,MOTOR,Falla en agitación,"109,784",3,0,0,0,0,3,27
+C,ago - dic 2019,MOTOR,Embobinado dañado,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,MOTOR,Abanico quebrado,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,MOTOR,Falla ccw,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,MOTOR,Falta de etiqueta,"109,784",1,0,0,0,0,1,9
+B,ago - dic 2019,MOTOR // CAPACITOR,En corto,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,Nut,Ausente,"109,784",0,3,0,0,0,3,27
+C,ago - dic 2019,PATA NIVELADORA,Golpe,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,PERILLA,Suelta,"109,784",0,1,0,0,1,2,18
+C,ago - dic 2019,Perilla,Poste deforme,"109,784",2,0,3,0,0,5,46
+C,ago - dic 2019,Planetario,Rebaba,"109,784",0,3,0,0,0,3,27
+C,ago - dic 2019,Planetario,Agrietado,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,PLANETARIO,Empaque dañado,"109,784",1,0,0,0,0,1,9
+B,ago - dic 2019,POLEA,Floja / sin torque,"109,784",0,0,0,0,8,8,73
+B,ago - dic 2019,REAR PANEL,Golpe,"109,784",0,0,0,0,3,3,27
+B,ago - dic 2019,REAR PANEL,Mal ensamble,"109,784",0,2,0,0,1,3,27
+C,ago - dic 2019,REAR PANEL,Tornillo ausente,"109,784",0,8,0,0,0,8,73
+C,ago - dic 2019,REAR PANEL,Falta de torque,"109,784",0,3,0,0,0,3,27
+C,ago - dic 2019,REAR PANEL,Tornillo mal ensamblado,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,REAR PANEL,Tornillo equivocado,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,Rear top,Tornillo ausente,"109,784",0,6,0,0,0,6,55
+B,ago - dic 2019,SELLO DE TRANSMISIÓN,Fuera de posición,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,Speed wheel,Pandeado / deformado,"109,784",44,0,0,0,0,44,401
+C,ago - dic 2019,Speed wheel,Quebrado / dañado / fracturado,"109,784",3,1,0,1,0,5,46
+C,ago - dic 2019,Speed wheel,Rebaba,"109,784",5,0,0,0,0,5,46
+C,ago - dic 2019,Support motor,Tuerca mal ensambada,"109,784",0,1,0,0,0,1,9
+AA,ago - dic 2019,Tarjeta Robin,Falla funcional / no enciende,"109,784",22,105,38,0,0,165,"1,503"
+B,ago - dic 2019,Tarjeta Robin,Falla de LED,"109,784",0,8,11,0,0,19,173
+C,ago - dic 2019,Tarjeta Robin,Tornillo ausente,"109,784",0,2,3,0,0,5,46
+C,ago - dic 2019,Tarjeta Robin,Mal ruteo,"109,784",0,0,3,0,0,3,27
+C,ago - dic 2019,Tarjeta Robin,No realiza prueba,"109,784",11,0,0,0,0,11,100
+C,ago - dic 2019,Tarjeta Robin,Boton fuera de especificación,"109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,Tarjeta Robin,Falta de LED,"109,784",4,0,0,0,0,4,36
+C,ago - dic 2019,Tarjeta Robin,Conector quebrado,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Tarjeta Robin,LED encendido,"109,784",3,0,0,0,0,3,27
+C,ago - dic 2019,Tarjeta Robin,LED no enciende,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,Tarjeta Robin,Falta de transistor,"109,784",1,0,0,0,0,1,9
+A,ago - dic 2019,TINA,Fuga,"109,784",0,40,1,0,1,42,383
+C,ago - dic 2019,TINA,Pivotes quebrados,"109,784",0,3,2,0,0,5,46
+C,ago - dic 2019,TINA,Orificio tapado,"109,784",0,2,1,0,0,3,27
+C,ago - dic 2019,TINA,Con Suciedad / contaminadas,"109,784",0,1,1,0,0,2,18
+C,ago - dic 2019,TINA,Tiro corto,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,TINA,Tornillo dentro de unidad,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,TINA,Pestaña quebrada,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,TINA,Mal ensamble,"109,784",0,1,0,0,0,1,9
+A,ago - dic 2019,Top panel,Equivocado,"109,784",144,81,0,0,0,225,"2,049"
+B,ago - dic 2019,Top panel,Tornillo mal ensamblado,"109,784",0,35,0,0,0,35,319
+B,ago - dic 2019,Top panel,Pestaña quebrada,"109,784",0,16,0,0,0,16,146
+B,ago - dic 2019,Top panel,Mal ensamble,"109,784",0,2,8,0,0,10,91
+B,ago - dic 2019,Top panel,Soft clutch baja rápido,"109,784",0,14,0,0,0,14,128
+C,ago - dic 2019,Top panel,Bezel ausente,"109,784",0,0,4,0,0,4,36
+C,ago - dic 2019,Top panel,Tornillo ausente,"109,784",0,3,2,0,0,5,46
+C,ago - dic 2019,Top panel,Defecto inyección / tiro corto,"109,784",3,2,0,0,0,5,46
+C,ago - dic 2019,Top panel,Contamiando,"109,784",4,0,0,0,0,4,36
+C,ago - dic 2019,Top panel,Nut ausente,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,Top panel,Sucio,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,Top panel,Amarillo,"109,784",2,0,0,0,0,2,18
+C,ago - dic 2019,Top panel,Mal retrabajo,"109,784",1,0,0,0,0,1,9
+A,ago - dic 2019,TRANSMISIÓN,Ruidosa,"109,784",0,0,0,1,5,6,55
+B,ago - dic 2019,TRANSMISIÓN,Pegada,"109,784",0,0,0,0,2,2,18
+B,ago - dic 2019,TRANSMISIÓN,Trabada,"109,784",0,0,0,0,2,2,18
+B,ago - dic 2019,TRANSMISIÓN,Dañada / golpeada,"109,784",0,6,1,0,1,8,73
+B,ago - dic 2019,TRANSMISIÓN,Snap fuera de posición,"109,784",0,3,8,0,0,11,100
+B,ago - dic 2019,TRANSMISIÓN,Tuerca barrida,"109,784",0,1,5,0,0,6,55
+C,ago - dic 2019,TRANSMISIÓN,Tornillo ausente,"109,784",0,5,2,0,0,7,64
+C,ago - dic 2019,TRANSMISIÓN,Tornillo barrido,"109,784",0,2,2,0,0,4,36
+C,ago - dic 2019,TRANSMISIÓN,Snap doble,"109,784",0,3,0,0,0,3,27
+C,ago - dic 2019,TRANSMISIÓN,Tornillos extra,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,TRANSMISIÓN,speed weel ausente,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,TRANSMISIÓN,Agrietada,"109,784",0,0,1,0,0,1,9
+C,ago - dic 2019,TRANSMISIÓN,Mal clinchado en maquina,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,TRANSMISIÓN,Fuera de posición,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,TRANSMISIÓN,Doble componente,"109,784",0,1,0,0,0,1,9
+C,ago - dic 2019,TRANSMISIÓN,Ausente,"109,784",0,1,0,0,0,1,9
+B,ago - dic 2019,TRANSMISIÓN // ACTUADOR,Abierto,"109,784",0,0,0,0,1,1,9
+B,ago - dic 2019,TUB COVER - VERTIC,Pandeado / Deforme,"109,784",372,0,0,0,0,372,"3,388"
+C,ago - dic 2019,TUB COVER - VERTIC,Tiro corto,"109,784",2,0,0,0,0,2,18
+B,ago - dic 2019,Tube ring,Pandeado,"109,784",0,99,0,0,0,99,902
+C,ago - dic 2019,Tube ring,Rayado / golpeado / quebrado,"109,784",0,4,0,0,0,4,36
+C,ago - dic 2019,Tube ring,Deforme,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,Tube ring,Pestaña quebrada,"109,784",0,2,0,0,0,2,18
+C,ago - dic 2019,Tube ring,Tiro corto,"109,784",0,1,0,0,0,1,9
+AA,ago - dic 2019,VÁLVULA,Abierta / flujo continuo,"109,784",1,0,2,1,16,20,182
+A,ago - dic 2019,VÁLVULA,Desajustada / Abrazadera floja,"109,784",0,2,10,0,4,16,146
+A,ago - dic 2019,VÁLVULA,Quemada,"109,784",0,0,0,0,4,3,27
+B,ago - dic 2019,VÁLVULA,Falta de sello / empaque,"109,784",16,0,1,2,2,21,191
+B,ago - dic 2019,VÁLVULA,No abre,"109,784",1,0,0,0,2,3,27
+B,ago - dic 2019,VÁLVULA,Dañada / Quebrada,"109,784",0,0,0,0,2,2,18
+B,ago - dic 2019,VÁLVULA,Equivocada / Mal identificada,"109,784",84,0,0,0,0,84,765
+B,ago - dic 2019,VÁLVULA,Tornillo ausente,"109,784",1,2,4,0,1,8,73
+C,ago - dic 2019,VÁLVULA,Falta de torque,"109,784",0,0,8,0,0,8,73
+C,ago - dic 2019,VÁLVULA,Tapada,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,VÁLVULA,Quebrada,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,VÁLVULA,Terminal safada,"109,784",0,0,6,0,0,6,55
+C,ago - dic 2019,VÁLVULA,conector dañado,"109,784",0,0,2,0,0,2,18
+C,ago - dic 2019,VÁLVULA,Terminal deforme,"109,784",3,0,0,0,0,3,27
+C,ago - dic 2019,VÁLVULA,Terminal grande / Terminal larga,"109,784",3,0,0,0,0,3,27
+C,ago - dic 2019,VÁLVULA,Falta tapon de seguridad,"109,784",1,0,0,0,0,1,9
+C,ago - dic 2019,VÁLVULA,Terminal corta,"109,784",1,0,0,0,0,1,9
+AA,ago - dic 2019,VARILLAS DE SUSPENSIÓN,Rotas / Dañadas / Vencidas,"109,784",1,0,0,0,13,14,128
+C,ago - dic 2019,VARILLAS DE SUSPENSIÓN,Falta,"109,784",0,0,0,0,1,1,9
+C,ago - dic 2019,VARILLAS DE SUSPENSIÓN,Equivocada,"109,784",0,3,0,0,0,3,27
