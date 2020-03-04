@@ -1,0 +1,383 @@
+﻿"""Component Code""","""Problem Description""",SQ,"""In Process- NDF""",FPY,CAL,"""SIR 1 MIS""",PPM,"""Component Codes""","""Problem Descriptions""","""Component Problem""",sum,col
+TRANSMISIÓN,speed weel ausente,0,0,1,0,0,9,85,169,85169,-2.49E+73,0.512211848
+VÁLVULA,conector dañado,0,0,2,0,0,18,92,168,92168,-9.15E+72,0.188432208
+BOMBA,conector dañado,0,0,3,0,0,27,24,168,24168,-9.15E+72,0.188432208
+Lid metalico,Visagra con mal ensamble,0,0,1,0,0,9,63,167,63167,-3.37E+72,0.069320336
+ACU,Valvula 2 corriente 82 / valvula corriente,4,0,0,0,0,36,1,166,1166,-1.24E+72,0.025501526
+Support motor,Tuerca mal ensambada,0,1,0,0,0,9,83,165,83165,-4.56E+71,0.009381487
+TRANSMISIÓN,Trabada,0,0,0,0,2,18,85,164,85164,-1.68E+71,0.003451256
+TRANSMISIÓN,Tornillos extra,0,0,1,0,0,9,85,163,85163,-6.17E+70,0.001269646
+Top panel,Tornillo mal ensamblado,0,35,0,0,0,319,89,162,89162,-2.27E+70,0.000467077
+REAR PANEL,Tornillo mal ensamblado,0,1,0,0,0,9,79,162,79162,-2.27E+70,0.000467077
+Lid metalico,Tornillo mal ensamblado,0,40,3,0,0,392,63,162,63162,-2.27E+70,0.000467077
+REAR PANEL,Tornillo equivocado,0,1,0,0,0,9,79,161,79161,-8.34E+69,0.000171828
+TINA,Tornillo dentro de unidad,0,2,0,0,0,18,84,160,84160,-3.07E+69,6.32E-05
+TRANSMISIÓN,Tornillo barrido,0,1,5,0,0,55,85,159,85159,-1.13E+69,2.33E-05
+TRANSMISIÓN,Tornillo barrido,0,2,2,0,0,36,85,159,85159,-1.13E+69,2.33E-05
+MOTOR,Tornillo barrido,0,21,56,0,0,701,69,159,69159,-1.13E+69,2.33E-05
+Impeller,Tornillo barrido,0,10,2,0,0,109,55,159,55159,-1.13E+69,2.33E-05
+Cable poder,Tornillo barrido,0,7,0,0,0,64,34,159,34159,-1.13E+69,2.33E-05
+Bracket housing,Tornillo barrido,0,2,0,0,0,18,26,159,26159,-1.13E+69,2.33E-05
+Arnes cable de tierra,Tornillo barrido,0,4,47,0,0,465,14,159,14159,-1.13E+69,2.33E-05
+Agitador couple,Tornillo barrido,0,61,17,0,0,710,12,159,12159,-1.13E+69,2.33E-05
+Agitador couple,Tornillo barrido,0,7,0,0,0,64,12,159,12159,-1.13E+69,2.33E-05
+AGITADOR,Tornillo barrido,0,16,4,0,0,182,4,159,4159,-1.13E+69,2.33E-05
+VÁLVULA,Tornillo ausente,1,2,4,0,1,73,92,158,92158,-4.15E+68,8.55E-06
+Top panel,Tornillo ausente,0,3,2,0,0,46,89,158,89158,-4.15E+68,8.55E-06
+Tarjeta Robin,Tornillo ausente,0,2,3,0,0,46,88,158,88158,-4.15E+68,8.55E-06
+TRANSMISIÓN,Tornillo ausente,0,5,2,0,0,64,85,158,85158,-4.15E+68,8.55E-06
+Rear top,Tornillo ausente,0,6,0,0,0,55,80,158,80158,-4.15E+68,8.55E-06
+REAR PANEL,Tornillo ausente,0,8,0,0,0,73,79,158,79158,-4.15E+68,8.55E-06
+MOTOR,Tornillo ausente,2,1,5,0,0,73,69,158,69158,-4.15E+68,8.55E-06
+Lid metalico,Tornillo ausente,0,1,2,0,0,27,63,158,63158,-4.15E+68,8.55E-06
+DISPENSADOR,Tornillo ausente,0,0,2,0,0,18,42,158,42158,-4.15E+68,8.55E-06
+Bracket metalico,Tornillo ausente,0,1,0,0,0,9,27,158,27158,-4.15E+68,8.55E-06
+Bracket housing,Tornillo ausente,0,0,3,0,0,27,26,158,26158,-4.15E+68,8.55E-06
+BOMBA,Tornillo ausente,0,1,1,0,0,18,24,158,24158,-4.15E+68,8.55E-06
+Arnes cable de tierra,Tornillo ausente,0,0,1,0,0,9,14,158,14158,-4.15E+68,8.55E-06
+AGITADOR,Tornillo ausente,0,4,0,0,0,36,4,158,4158,-4.15E+68,8.55E-06
+AGITADOR,Tornillo adicional,0,0,0,0,1,9,4,157,4157,-1.53E+68,3.15E-06
+DISPENSADOR,Tono diferente,33,0,0,0,0,301,42,156,42156,-5.62E+67,1.16E-06
+Cover hinge assy,Tono diferente,41,0,0,0,0,373,41,156,41156,-5.62E+67,1.16E-06
+Cover hinge LH y RH,Tono diferente,551,0,0,0,0,5019,40,156,40156,-5.62E+67,1.16E-06
+Tube ring,Tiro corto,0,1,0,0,0,9,90,155,90155,-2.07E+67,4.26E-07
+TUB COVER - VERTIC,Tiro corto,2,0,0,0,0,18,87,155,87155,-2.07E+67,4.26E-07
+TINA,Tiro corto,0,2,0,0,0,18,84,155,84155,-2.07E+67,4.26E-07
+LID LOCK,Tiro corto,4,0,0,0,0,36,61,155,61155,-2.07E+67,4.26E-07
+Fascia,Tiro corto,3,1,0,0,0,36,53,155,53155,-2.07E+67,4.26E-07
+DISPENSADOR,Tiro corto,1,0,0,0,0,9,42,155,42155,-2.07E+67,4.26E-07
+Cover hinge assy,Tiro corto,205,0,0,0,0,1867,41,155,41155,-2.07E+67,4.26E-07
+Cover hinge LH y RH,Tiro corto,2,0,0,0,0,18,40,155,40155,-2.07E+67,4.26E-07
+Bracket housing,Tiro corto,1,0,0,0,0,9,26,155,26155,-2.07E+67,4.26E-07
+VÁLVULA,Terminal suelta,0,0,6,0,0,55,92,154,92154,-7.61E+66,1.57E-07
+ARNES,Terminal suelta,4,0,0,0,0,36,5,154,5154,-7.61E+66,1.57E-07
+VÁLVULA,Terminal grande / Terminal larga,3,0,0,0,0,27,92,153,92153,-2.80E+66,5.76E-08
+VÁLVULA,Terminal deforme,3,0,0,0,0,27,92,152,92152,-1.03E+66,2.12E-08
+Cable poder,Terminal deforme,0,0,1,0,0,9,34,152,34152,-1.03E+66,2.12E-08
+CAPACITOR,Terminal deforme,0,9,1,0,0,91,31,152,31152,-1.03E+66,2.12E-08
+VÁLVULA,Terminal corta,1,0,0,0,0,9,92,151,92151,-3.79E+65,7.80E-09
+VÁLVULA,Tapada,0,0,0,0,1,9,92,150,92150,-1.39E+65,2.87E-09
+MANGUERAS DE LLENADO,Tamaño diferente al requerido,0,0,0,0,1,9,68,149,68149,-5.13E+64,1.06E-09
+PERILLA,Suelto,0,1,0,0,1,18,74,148,74148,-1.89E+64,3.88E-10
+COVER PULLEY,Suelto,0,0,0,0,3,27,32,148,32148,-1.89E+64,3.88E-10
+BOLAS DE SUSPENSIÓN,Suelto,0,0,0,0,1,9,23,148,23148,-1.89E+64,3.88E-10
+BANDA,Suelto,0,1,1,0,8,91,20,148,20148,-1.89E+64,3.88E-10
+AGITADOR,Suelto,0,30,22,1,4,519,4,148,4148,-1.89E+64,3.88E-10
+Top panel,Sucio,0,1,0,0,0,9,89,147,89147,-6.94E+63,1.43E-10
+Lid metalico,Strike hook mal ensamblado,0,1,0,0,0,9,63,146,63146,-2.55E+63,5.26E-11
+Lid metalico,Strike hook ausente,0,0,1,0,0,9,63,145,63145,-9.39E+62,1.93E-11
+Top panel,Soft clutch baja rápido,0,14,0,0,0,128,89,144,89144,-3.45E+62,7.11E-12
+TRANSMISIÓN,Snap fuera de posición,0,3,8,0,0,100,85,143,85143,-1.27E+62,2.62E-12
+TRANSMISIÓN,Snap doble,0,3,0,0,0,27,85,142,85142,-4.68E+61,9.63E-13
+ACU,Sin corriente,1,0,0,0,0,9,1,141,1141,-1.72E+61,3.54E-13
+ARNES,Sin continuidad,0,0,0,0,1,9,5,140,5140,-6.33E+60,1.30E-13
+Fascia,Serigrafía movida,3,3,8,0,0,128,53,139,53139,-2.33E+60,4.79E-14
+Fascia,Serigrafía incompleta,40,155,7,0,0,1840,53,138,53138,-8.56E+59,1.76E-14
+Inner tray,Se trozan al doblar,313,0,0,0,0,2851,56,137,56137,-3.15E+59,6.49E-15
+LID LOCK,Se apaga unidad,1,0,0,0,0,9,61,136,61136,-1.16E+59,2.39E-15
+TRANSMISIÓN,Ruido,0,0,0,1,5,55,85,135,85135,-4.26E+58,8.78E-16
+MOTOR,Ruido,2,0,0,1,0,27,69,135,69135,-4.26E+58,8.78E-16
+LID,Ruido,0,0,0,1,7,73,60,135,60135,-4.26E+58,8.78E-16
+Speed wheel,Rebaba,5,0,0,0,0,46,82,134,82134,-1.57E+58,3.23E-16
+Planetario,Rebaba,0,3,0,0,0,27,78,134,78134,-1.57E+58,3.23E-16
+Impeller,Rebaba,3,0,3,0,0,55,55,134,55134,-1.57E+58,3.23E-16
+Fascia,Rebaba,3,0,0,0,0,27,53,134,53134,-1.57E+58,3.23E-16
+Cover hinge LH y RH,Rebaba,2,0,0,0,0,18,40,134,40134,-1.57E+58,3.23E-16
+Tube ring,Rayado,0,4,0,0,0,36,90,133,90133,-5.77E+57,1.19E-16
+CAP HINGE,Rayado,535,0,0,0,0,4873,30,133,30133,-5.77E+57,1.19E-16
+VÁLVULA,Quemada,0,0,0,0,4,27,92,132,92132,-2.12E+57,4.37E-17
+BOMBA,Quemada,0,0,0,0,1,9,24,132,24132,-2.12E+57,4.37E-17
+VÁLVULA,Quebrado,0,0,0,0,1,9,92,131,92131,-7.81E+56,1.61E-17
+VARILLAS DE SUSPENSIÓN,Quebrado,1,0,0,0,13,128,91,131,91131,-7.81E+56,1.61E-17
+Speed wheel,Quebrado,3,1,0,1,0,46,82,131,82131,-7.81E+56,1.61E-17
+Mega,Quebrado,0,0,9,0,0,82,71,131,71131,-7.81E+56,1.61E-17
+MANGUERA DE DRENADO Tina a Bomba,Quebrado,0,0,0,1,1,18,67,131,67131,-7.81E+56,1.61E-17
+MANGUERA DE DRENADO,Quebrado,0,0,0,0,1,9,66,131,66131,-7.81E+56,1.61E-17
+LID LOCK,Quebrado,0,0,1,0,0,9,61,131,61131,-7.81E+56,1.61E-17
+Inner tray,Quebrado,10115,0,0,0,0,92135,56,131,56131,-7.81E+56,1.61E-17
+DISPENSADOR,Quebrado,0,0,5,0,2,64,42,131,42131,-7.81E+56,1.61E-17
+COVER PULLEY,Quebrado,0,1,0,0,0,9,32,131,32131,-7.81E+56,1.61E-17
+CAP HINGE,Quebrado,2,0,0,0,0,18,30,131,30131,-7.81E+56,1.61E-17
+CAM SPLUTCH,Quebrado,0,1,0,0,1,18,29,131,29131,-7.81E+56,1.61E-17
+BOMBA,Quebrado,0,13,8,0,3,219,24,131,24131,-7.81E+56,1.61E-17
+BOLAS DE SUSPENSIÓN,Quebrado,0,2,3,0,19,301,23,131,23131,-7.81E+56,1.61E-17
+Auger agitador,Quebrado,0,3,20,0,0,210,18,131,18131,-7.81E+56,1.61E-17
+ARNES ACTUADOR,Quebrado,1,3,5,0,3,109,6,131,6131,-7.81E+56,1.61E-17
+AGITADOR,Quebrado,0,1,1,0,2,36,4,131,4131,-7.81E+56,1.61E-17
+Fascia,Poste quebrado,2,0,0,0,0,18,53,130,53130,-2.87E+56,5.92E-18
+Perilla,Poste deforme,2,0,3,0,0,46,77,129,77129,-1.06E+56,2.18E-18
+Fascia,Poste deforme,0,3,0,0,0,27,53,129,53129,-1.06E+56,2.18E-18
+COVER PULLEY,Poste deforme,0,1,0,0,0,9,32,129,32129,-1.06E+56,2.18E-18
+TINA,Pivotes quebrados,0,3,2,0,0,46,84,128,84128,-3.89E+55,8.01E-19
+ACTUATOR - SHIFT,Pin elevado,1,0,0,0,0,9,0,127,127,-1.43E+55,2.94E-19
+Arnes upper,Pin dañado,0,3,0,0,0,27,17,126,17126,-5.26E+54,1.08E-19
+Tube ring,Pestaña quebrada,0,2,0,0,0,18,90,125,90125,-1.94E+54,3.99E-20
+Top panel,Pestaña quebrada,0,16,0,0,0,146,89,125,89125,-1.94E+54,3.99E-20
+TINA,Pestaña quebrada,0,2,0,0,0,18,84,125,84125,-1.94E+54,3.99E-20
+AGITADOR,Pestaña quebrada,0,1,0,0,0,9,4,125,4125,-1.94E+54,3.99E-20
+Bracket housing,Pestaña deforme,2,0,0,0,0,18,26,124,26124,-7.12E+53,1.47E-20
+Fascia,Perilla número de parte equivocado,0,2,0,0,0,18,53,123,53123,-2.62E+53,5.39E-21
+Fascia,Perilla ausente,0,3,4,0,0,64,53,122,53122,-9.64E+52,1.98E-21
+TRANSMISIÓN,Pegada,0,0,0,0,2,18,85,121,85121,-3.55E+52,7.30E-22
+Tube ring,Pandeado,0,99,0,0,0,902,90,120,90120,-1.30E+52,2.69E-22
+TUB COVER - VERTIC,Pandeado,372,0,0,0,0,3388,87,120,87120,-1.30E+52,2.69E-22
+Speed wheel,Pandeado,44,0,0,0,0,401,82,120,82120,-1.30E+52,2.69E-22
+Fascia,Pandeado,1,0,0,0,0,9,53,120,53120,-1.30E+52,2.69E-22
+AGITADOR,Pandeado,0,1,2,0,0,27,4,120,4120,-1.30E+52,2.69E-22
+Fascia,Overlay movido,1,0,0,0,0,9,53,119,53119,-4.80E+51,9.88E-23
+Fascia,Overlay marcado / Rayado,29,0,0,0,0,264,53,118,53118,-1.77E+51,3.63E-23
+Fascia,Overlay despegado,0,0,1,0,0,9,53,117,53117,-6.49E+50,1.34E-23
+Fascia,Overlay con burbuja / grumo,43,13,11,0,0,610,53,116,53116,-2.39E+50,4.92E-24
+TINA,Orificio tapado,0,2,1,0,0,27,84,115,84115,-8.79E+49,1.81E-24
+Fascia,Orificio tapado,1,0,0,0,0,9,53,115,53115,-8.79E+49,1.81E-24
+ACTUATOR - SHIFT,Omision Ausente,0,1,0,0,0,9,0,114,114,-3.23E+49,6.66E-25
+Top panel,Nut ausente,0,0,1,0,0,9,89,113,89113,-1.19E+49,2.45E-25
+Tarjeta Robin,No realiza prueba,11,0,0,0,0,100,88,112,88112,-4.38E+48,9.01E-26
+Mega,No realiza prueba,4,1,0,0,0,46,71,112,71112,-4.38E+48,9.01E-26
+ACU,No realiza prueba,55,22,0,0,0,701,1,112,1112,-4.38E+48,9.01E-26
+ACU,No entra cable en data,12,0,0,0,0,109,1,111,1111,-1.61E+48,3.31E-26
+ACU,No enciende,16,0,0,0,0,146,1,110,1110,-5.92E+47,1.22E-26
+ACU,No descandadea unidad,1,0,0,0,0,9,1,109,1109,-2.18E+47,4.49E-27
+DISPENSADOR,No de parte equivocado,0,0,2,0,0,18,42,108,42108,-8.01E+46,1.65E-27
+ARNES DE MOTOR,No de parte equivocado,0,0,1,0,0,9,10,108,10108,-8.01E+46,1.65E-27
+VÁLVULA,No abre,1,0,0,0,2,27,92,107,92107,-2.95E+46,6.07E-28
+ACU,Nivel de agua,2,0,0,0,0,18,1,106,1106,-1.08E+46,2.23E-28
+Fascia,Modelo equivocado,14,21,3,0,0,346,53,105,53105,-3.99E+45,8.21E-29
+ACU,Marca spin corriente / corriente 0 no realiza spin,22,0,0,0,0,200,1,104,1104,-1.47E+45,3.02E-29
+Gabinetes,Marca de rebaba,0,0,1,0,0,9,54,103,54103,-5.40E+44,1.11E-29
+BOMBA,Manguera mal ensamblada,0,0,2,0,0,18,24,102,24102,-1.99E+44,4.09E-30
+BOMBA,Manguera dañada,0,0,0,1,0,9,24,101,24101,-7.31E+43,1.50E-30
+Tarjeta Robin,Mal ruteo,0,0,3,0,0,27,88,100,88100,-2.69E+43,5.54E-31
+Top panel,Mal retrabajo,1,0,0,0,0,9,89,99,8999,-9.89E+42,2.04E-31
+Canasta drum,Mal rectificado,0,5,0,0,0,46,35,98,3598,-3.64E+42,7.49E-32
+ACU,Mal programado en línea,0,14,56,0,0,638,1,97,197,-1.34E+42,2.76E-32
+LABEL SCALE LEVEL,Mal posicionado,0,2,0,0,0,18,59,96,5996,-4.92E+41,1.01E-32
+Inner tray,Mal pegadas,4,0,0,0,0,36,56,95,5695,-1.81E+41,3.73E-33
+LABEL - PROD REG,Mal impresa,23,0,0,0,0,210,58,94,5894,-6.66E+40,1.37E-33
+LABEL - 10 YEARS WARRANTY,Mal impresa,402,0,0,0,0,3662,57,94,5794,-6.66E+40,1.37E-33
+Top panel,Mal ensamble,0,2,8,0,0,91,89,93,8993,-2.45E+40,5.05E-34
+TINA,Mal ensamble,0,1,0,0,0,9,84,93,8493,-2.45E+40,5.05E-34
+REAR PANEL,Mal ensamble,0,2,0,0,1,27,79,93,7993,-2.45E+40,5.05E-34
+Mega,Mal ensamble,2,1,1,0,0,36,71,93,7193,-2.45E+40,5.05E-34
+LID,Mal ensamble,0,1,1,0,0,18,60,93,6093,-2.45E+40,5.05E-34
+Impeller,Mal ensamble,0,2,0,0,0,18,55,93,5593,-2.45E+40,5.05E-34
+Fascia,Mal ensamble,0,8,2,0,0,91,53,93,5393,-2.45E+40,5.05E-34
+Encoder,Mal ensamble,0,8,1,0,0,82,44,93,4493,-2.45E+40,5.05E-34
+Dispenser sencillo,Mal ensamble,0,0,1,0,0,9,43,93,4393,-2.45E+40,5.05E-34
+DISPENSADOR,Mal ensamble,31,0,0,0,0,282,42,93,4293,-2.45E+40,5.05E-34
+Clip arnes blanco,Mal ensamble,0,3,0,0,0,27,39,93,3993,-2.45E+40,5.05E-34
+Canasta drum,Mal ensamble,0,3,1,0,0,27,35,93,3593,-2.45E+40,5.05E-34
+CAPACITOR,Mal ensamble,4,0,0,0,0,36,31,93,3193,-2.45E+40,5.05E-34
+BOMBA,Mal ensamble,0,2,0,0,0,18,24,93,2493,-2.45E+40,5.05E-34
+Arnes principal,Mal ensamble,0,2,0,1,0,27,16,93,1693,-2.45E+40,5.05E-34
+Air dome,Mal ensamble,0,2,0,0,0,18,13,93,1393,-2.45E+40,5.05E-34
+ACU,Mal ensamble,0,2,38,0,0,364,1,93,193,-2.45E+40,5.05E-34
+TRANSMISIÓN,Mal Ajustada,0,1,0,0,0,9,85,92,8592,-9.02E+39,1.86E-34
+Canasta drum,Mal Ajustada,0,8,0,0,0,73,35,92,3592,-9.02E+39,1.86E-34
+Cover hinge assy,Lid baja rápido / Falta de torque,702,0,0,0,0,6394,41,91,4191,-3.32E+39,6.83E-35
+Mega,Leds encendidos (dañada),3,0,0,1,0,36,71,90,7190,-1.22E+39,2.51E-35
+ACU,Leds encendidos (dañada),6,0,0,0,0,55,1,90,190,-1.22E+39,2.51E-35
+Fascia,Led opaco,24,0,0,0,0,219,53,89,5389,-4.49E+38,9.24E-36
+Mega,Led candado equivocado,1,0,0,0,0,9,71,88,7188,-1.65E+38,3.40E-36
+ACU,LONG DRAIN / Flujo,125,0,0,0,30,1412,1,87,187,-6.08E+37,1.25E-36
+Tarjeta Robin,LED no enciende,2,0,0,0,0,18,88,86,8886,-2.24E+37,4.60E-37
+Tarjeta Robin,LED encendido,3,0,0,0,0,27,88,85,8885,-8.22E+36,1.69E-37
+ACU,LED,5,0,0,0,0,46,1,84,184,-3.03E+36,6.23E-38
+Encoder,Invertido,0,3,3,0,0,55,44,83,4483,-1.11E+36,2.29E-38
+Etiqueta de advertencia,Incompleto,0,15,0,0,0,137,49,82,4982,-4.09E+35,8.43E-39
+Chanel bottom,Incompleto,0,0,5,0,0,46,37,82,3782,-4.09E+35,8.43E-39
+Lid Plastico,Hinge bracket equivocado,0,48,0,0,0,437,62,81,6281,-1.51E+35,3.10E-39
+REAR PANEL,Golpeado,0,0,0,0,3,27,79,80,7980,-5.54E+34,1.14E-39
+PATA NIVELADORA,Golpeado,0,0,0,0,1,9,73,80,7380,-5.54E+34,1.14E-39
+Lid metalico,Golpeado,0,1,1,0,0,18,63,80,6380,-5.54E+34,1.14E-39
+LID,Golpeado,0,0,2,0,0,18,60,80,6080,-5.54E+34,1.14E-39
+Fascia,Golpeado,22,0,0,0,0,200,53,80,5380,-5.54E+34,1.14E-39
+Canasta drum,Golpeado,0,1,1,0,0,18,35,80,3580,-5.54E+34,1.14E-39
+AGITADOR,Gap,0,0,0,0,1,9,4,79,479,-2.04E+34,4.20E-40
+TINA,Fuga,0,40,1,0,1,383,84,78,8478,-7.50E+33,1.54E-40
+TRANSMISIÓN,Fuera de posición,0,1,0,0,0,9,85,77,8577,-2.76E+33,5.68E-41
+SELLO DE TRANSMISIÓN,Fuera de posición,0,0,0,0,1,9,81,77,8177,-2.76E+33,5.68E-41
+LID LOCK,Fuera de posición,0,1,2,0,1,36,61,77,6177,-2.76E+33,5.68E-41
+DISPENSADOR,Fuera de posición,0,0,0,0,1,9,42,77,4277,-2.76E+33,5.68E-41
+CUP DISPENSER,Fuera de posición,0,0,0,0,1,9,33,77,3377,-2.76E+33,5.68E-41
+COVER PULLEY,Fuera de posición,0,0,0,0,1,9,32,77,3277,-2.76E+33,5.68E-41
+CAM SPLUTCH,Fuera de posición,0,4,5,3,17,264,29,77,2977,-2.76E+33,5.68E-41
+BALERO,Fuera de posición,0,0,0,0,1,9,19,77,1977,-2.76E+33,5.68E-41
+ACTUATOR - SHIFT,Fuera de posición,0,2,2,0,2,55,0,77,77,-2.76E+33,5.68E-41
+Inner tray,Fuera de especificación,1273,0,0,0,0,11595,56,76,5676,-1.01E+33,2.09E-41
+Canasta drum,Fuera de especificación,0,2,0,0,0,18,35,76,3576,-1.01E+33,2.09E-41
+CAPACITOR,Fuera de especificación,0,2,0,0,0,18,31,76,3176,-1.01E+33,2.09E-41
+BASE PROT-PACKAGIN,Fuera de especificación,2,0,0,0,0,18,21,76,2176,-1.01E+33,2.09E-41
+ARNES,Fuera de especificación,1,0,0,0,0,9,5,76,576,-1.01E+33,2.09E-41
+POLEA,Floja,0,0,0,0,8,73,76,75,7675,-3.73E+32,7.69E-42
+COVER PULLEY,Floja,0,6,6,0,1,118,32,75,3275,-3.73E+32,7.69E-42
+VÁLVULA,Falta tapon de seguridad,1,0,0,0,0,9,92,74,9274,-1.37E+32,2.83E-42
+Tarjeta Robin,Falta de transistor,1,0,0,0,0,9,88,73,8873,-5.05E+31,1.04E-42
+VÁLVULA,Falta de torque,0,0,8,0,0,73,92,72,9272,-1.86E+31,3.83E-43
+REAR PANEL,Falta de torque,0,3,0,0,0,27,79,72,7972,-1.86E+31,3.83E-43
+DISPENSADOR,Falta de syphon,0,2,0,0,0,18,42,71,4271,-6.84E+30,1.41E-43
+VÁLVULA,Falta de sello,16,0,1,2,2,191,92,70,9270,-2.52E+30,5.18E-44
+ACU,Falta de pin / pin dañado,2,0,0,0,0,18,1,69,169,-9.25E+29,1.91E-44
+MANGUERA DE DRENADO,Falta de guía,2,0,0,0,0,18,66,68,6668,-3.40E+29,7.01E-45
+MOTOR,Falta de etiqueta,1,0,0,0,0,9,69,67,6967,-1.25E+29,2.58E-45
+Tarjeta Robin,Falta de LED,4,0,0,0,0,36,88,66,8866,-4.61E+28,9.49E-46
+LID LOCK,Falta cincho,2,0,0,0,0,18,61,65,6165,-1.69E+28,3.49E-46
+BASE PROT-PACKAGIN,Falta EPS,3,0,0,0,0,27,21,64,2164,-6.24E+27,1.28E-46
+VARILLAS DE SUSPENSIÓN,Falta,0,0,0,0,1,9,91,63,9163,-2.29E+27,4.72E-47
+MANGUERA DE DRENADO,Falta,0,0,0,0,2,18,66,63,6663,-2.29E+27,4.72E-47
+Tarjeta Robin,Falla funcional,22,105,38,0,0,1503,88,62,8862,-8.44E+26,1.74E-47
+Mega,Falla funcional,4,69,66,0,0,1266,71,62,7162,-8.44E+26,1.74E-47
+Encoder,Falla funcional,2,0,1,0,0,27,44,62,4462,-8.44E+26,1.74E-47
+Cable poder,Falla funcional,0,1,0,0,0,9,34,62,3462,-8.44E+26,1.74E-47
+CAPACITOR,Falla funcional,1,0,5,0,0,55,31,62,3162,-8.44E+26,1.74E-47
+Arnes cable de tierra,Falla funcional,0,0,1,0,0,9,14,62,1462,-8.44E+26,1.74E-47
+ACU,Falla funcional,15,0,152,0,0,1521,1,62,162,-8.44E+26,1.74E-47
+ACU,Falla en llenado,2,0,0,0,0,18,1,61,161,-3.10E+26,6.39E-48
+MOTOR,Falla en agitación,3,0,0,0,0,27,69,60,6960,-1.14E+26,2.35E-48
+ACU,Falla de programación,3,0,0,0,0,27,1,59,159,-4.20E+25,8.65E-49
+Mega,Falla de led,2,1,4,0,0,64,71,58,7158,-1.55E+25,3.18E-49
+Tarjeta Robin,Falla de LED,0,8,11,0,0,173,88,57,8857,-5.69E+24,1.17E-49
+ACU,Falla conector para prueba data,1,0,0,0,0,9,1,56,156,-2.09E+24,4.31E-50
+MOTOR,Falla ccw,1,0,0,0,0,9,69,55,6955,-7.69E+23,1.58E-50
+ACU,Error en lavado,1,0,0,0,0,9,1,54,154,-2.83E+23,5.83E-51
+VÁLVULA,Equivocado,84,0,0,0,0,765,92,53,9253,-1.04E+23,2.14E-51
+VARILLAS DE SUSPENSIÓN,Equivocado,0,3,0,0,0,27,91,53,9153,-1.04E+23,2.14E-51
+Top panel,Equivocado,144,81,0,0,0,2049,89,53,8953,-1.04E+23,2.14E-51
+Lid Plastico,Equivocado,24,7,0,0,0,282,62,53,6253,-1.04E+23,2.14E-51
+LABEL SCALE LEVEL,Equivocado,500,10,0,0,0,4645,59,53,5953,-1.04E+23,2.14E-51
+Cover hinge LH y RH,Equivocado,39,2,1,0,0,383,40,53,4053,-1.04E+23,2.14E-51
+CAP HINGE,Equivocado,242,0,0,0,0,2204,30,53,3053,-1.04E+23,2.14E-51
+AGITADOR,Equivocado,24,95,0,0,0,1084,4,53,453,-1.04E+23,2.14E-51
+Arnes cable de tierra,Enredado / atrapado,0,1,2,0,0,27,14,52,1452,-3.83E+22,7.89E-52
+ARNES DE MOTOR,Enredado / atrapado,0,1,2,0,0,27,10,52,1052,-3.83E+22,7.89E-52
+ARNES ACTUADOR,Enredado / atrapado,0,1,3,0,0,36,6,52,652,-3.83E+22,7.89E-52
+MOTOR // CAPACITOR,En corto,0,0,0,0,1,9,70,51,7051,-1.41E+22,2.90E-52
+MOTOR,En corto,2,0,8,0,2,109,69,51,6951,-1.41E+22,2.90E-52
+LID LOCK,En corto,1,0,5,0,3,82,61,51,6151,-1.41E+22,2.90E-52
+BOMBA // ACU,En corto,0,0,0,0,1,9,25,51,2551,-1.41E+22,2.90E-52
+BOMBA,En corto,1,0,0,0,3,36,24,51,2451,-1.41E+22,2.90E-52
+ACU//Bomba,En corto,0,0,16,0,1,155,3,51,351,-1.41E+22,2.90E-52
+ACU //Actuador,En corto,0,0,0,0,1,9,2,51,251,-1.41E+22,2.90E-52
+ACU,En corto,1,0,0,1,1,27,1,51,151,-1.41E+22,2.90E-52
+ACTUATOR - SHIFT,En corto,1,0,2,0,22,228,0,51,51,-1.41E+22,2.90E-52
+PLANETARIO,Empaque dañado,1,0,0,0,0,9,75,50,7550,-5.18E+21,1.07E-52
+MOTOR,Embobinado dañado,2,0,0,0,0,18,69,49,6949,-1.91E+21,3.93E-53
+ACU,Dreno sin terminar ciclo,12,0,0,0,0,109,1,48,148,-7.02E+20,1.44E-53
+TRANSMISIÓN,Doble componente,0,1,0,0,0,9,85,47,8547,-2.58E+20,5.32E-54
+MANGUERA APS,Doblada,702,0,0,0,1,6403,65,46,6546,-9.50E+19,1.96E-54
+Cable poder,Distancia de clip corta,1,0,0,0,0,9,34,45,3445,-3.49E+19,7.19E-55
+Gabinetes,Desprendimiento de pintura,0,0,1,0,0,9,54,44,5444,-1.29E+19,2.65E-55
+Lid vidrio,Despegado,2,0,0,1,0,27,64,43,6443,-4.73E+18,9.74E-56
+LABEL SCALE LEVEL,Despegado,0,1,0,0,0,9,59,43,5943,-4.73E+18,9.74E-56
+Inner tray,Despegado,664,0,0,0,0,6048,56,43,5643,-4.73E+18,9.74E-56
+Etiqueta de advertencia,Despegado,0,3,0,0,0,27,49,43,4943,-4.73E+18,9.74E-56
+BASE PROT-PACKAGIN,Despegado,6,0,0,0,0,55,21,43,2143,-4.73E+18,9.74E-56
+MANGUERA APS,Desconectado,0,3,4,0,1,73,65,42,6542,-1.74E+18,3.58E-56
+ARNES DE VÁLVULA,Desconectado,0,2,2,0,10,128,11,42,1142,-1.74E+18,3.58E-56
+ARNES DE MOTOR,Desconectado,0,2,3,0,6,100,10,42,1042,-1.74E+18,3.58E-56
+ARNES DE CAPACITOR,Desconectado,0,3,3,0,7,118,9,42,942,-1.74E+18,3.58E-56
+ARNES CABLE DE PODER,Desconectado,0,0,0,0,7,64,8,42,842,-1.74E+18,3.58E-56
+ARNES BOMBA,Desconectado,0,0,0,0,6,55,7,42,742,-1.74E+18,3.58E-56
+ARNES ACTUADOR,Desconectado,0,1,0,0,3,36,6,42,642,-1.74E+18,3.58E-56
+VÁLVULA,Desajustado,0,2,10,0,4,146,92,41,9241,-6.40E+17,1.32E-56
+LID LOCK,Desajustado,0,0,0,0,1,9,61,41,6141,-6.40E+17,1.32E-56
+ACU,Desajustado,0,0,0,0,1,9,1,41,141,-6.40E+17,1.32E-56
+Tube ring,Deforme,0,2,0,0,0,18,90,40,9040,-2.35E+17,4.85E-57
+Gabinetes,Deforme,0,2,0,0,0,18,54,40,5440,-2.35E+17,4.85E-57
+DISPENSADOR,Deforme,6,2,0,0,0,73,42,40,4240,-2.35E+17,4.85E-57
+Top panel,Defecto inyección / tiro corto,3,2,0,0,0,46,89,39,8939,-8.66E+16,1.78E-57
+VÁLVULA,Dañado,0,0,0,0,2,18,92,38,9238,-3.19E+16,6.56E-58
+TRANSMISIÓN,Dañado,0,6,1,0,1,73,85,38,8538,-3.19E+16,6.56E-58
+Mega,Dañado,0,1,0,0,0,9,71,38,7138,-3.19E+16,6.56E-58
+Lid Plastico,Dañado,5,1,0,0,0,55,62,38,6238,-3.19E+16,6.56E-58
+CAPACITOR,Dañado,0,1,1,0,1,27,31,38,3138,-3.19E+16,6.56E-58
+BOMBA,Dañado,0,0,0,0,2,18,24,38,2438,-3.19E+16,6.56E-58
+BASE PROT-PACKAGIN,Dañado,9,0,0,0,0,82,21,38,2138,-3.19E+16,6.56E-58
+Arnes principal,Dañado,0,4,0,0,0,36,16,38,1638,-3.19E+16,6.56E-58
+Arnes lower,Dañado,0,0,0,1,0,9,15,38,1538,-3.19E+16,6.56E-58
+Arnes cable de tierra,Dañado,0,2,0,0,0,18,14,38,1438,-3.19E+16,6.56E-58
+ARNES CABLE DE PODER,Dañado,0,1,0,0,0,9,8,38,838,-3.19E+16,6.56E-58
+ACU,Dañado,5,0,0,0,1,18,1,38,138,-3.19E+16,6.56E-58
+ACTUATOR - SHIFT,Dañado,4,20,6,0,6,330,0,38,38,-3.19E+16,6.56E-58
+Lid Plastico,Cover hinge equivocado,0,1,0,0,0,9,62,37,6237,-1.17E+16,2.41E-58
+Top panel,Contaminado,4,0,0,0,0,36,89,36,8936,-4.31E+15,8.88E-59
+MANGUERA APS,Contaminado,0,2,1,0,0,27,65,36,6536,-4.31E+15,8.88E-59
+LID,Contaminado,0,0,1,0,0,9,60,36,6036,-4.31E+15,8.88E-59
+Fascia,Contaminado,0,0,1,0,0,9,53,36,5336,-4.31E+15,8.88E-59
+Tarjeta Robin,Conector quebrado,0,0,1,0,0,9,88,35,8835,-1.59E+15,3.27E-59
+Mega,Conector quebrado,0,0,2,0,0,18,71,35,7135,-1.59E+15,3.27E-59
+ARNES DE CAPACITOR,Conector quebrado,0,1,4,0,0,46,9,35,935,-1.59E+15,3.27E-59
+ACU,Conector quebrado,1,0,2,0,0,27,1,35,135,-1.59E+15,3.27E-59
+CAPACITOR,Conector invertido,45,0,0,0,0,410,31,34,3134,-5.83E+14,1.20E-59
+ACU,Conector invertido,0,0,4,0,0,36,1,34,134,-5.83E+14,1.20E-59
+ACU,Conector equivocado,6,0,0,0,0,55,1,33,133,-2.15E+14,4.42E-60
+CAPACITOR,Conector dañado,2,1,0,0,0,27,31,32,3132,-7.90E+13,1.63E-60
+Arnes cable de tierra,Conector con rebaba,0,1,1,0,0,18,14,31,1431,-2.90E+13,5.98E-61
+ARNES DE CAPACITOR,Conector con rebaba,0,1,1,0,0,18,9,31,931,-2.90E+13,5.98E-61
+ACTUATOR - SHIFT,Conector ausente / Omision ensamble,2,0,0,0,0,18,0,30,30,-1.07E+13,2.20E-61
+TINA,Con Suciedad / contaminadas,0,1,1,0,0,18,84,29,8429,-3.93E+12,8.10E-62
+LABEL SCALE LEVEL,Colocada al reves,0,0,1,0,0,9,59,28,5928,-1.45E+12,2.98E-62
+Cable poder,Clip sin ensamblar,0,0,2,0,0,18,34,27,3427,-5.32E+11,1.10E-62
+ARNES CABLE DE PODER,Clip sin ensamblar,0,1,0,0,0,9,8,27,827,-5.32E+11,1.10E-62
+ARNES,Clip fuera de especificación,0,2,0,0,0,18,5,26,526,-1.96E+11,4.03E-63
+ARNES CABLE DE PODER,Clip Ausente,23,2,1,0,0,230,8,25,825,-72004899337,1.48E-63
+ACTUATOR - SHIFT,Ciclo lento,2,0,2,0,0,36,0,24,24,-26489122130,5.45E-64
+Inner tray,Carton duro,22,0,0,0,0,200,56,23,5623,-9744803446,2.01E-64
+LID LOCK,Candadeado/Activado,7,0,0,0,0,64,61,22,6122,-3584912846,7.38E-65
+MOTOR,Cable roto,0,0,2,0,0,18,69,21,6921,-1318815734,2.72E-65
+LID LOCK,Cable roto,1,0,0,0,0,9,61,21,6121,-1318815734,2.72E-65
+Fascia,Cable roto,0,0,1,0,0,9,53,21,5321,-1318815734,2.72E-65
+Arnes cable de tierra,Cable roto,0,1,12,0,0,118,14,21,1421,-1318815734,2.72E-65
+ARNES DE MOTOR,Cable roto,0,0,1,0,0,9,10,21,1021,-1318815734,2.72E-65
+ARNES DE CAPACITOR,Cable roto,0,0,15,0,0,137,9,21,921,-1318815734,2.72E-65
+ARNES,Cable roto,1,0,0,0,0,9,5,21,521,-1318815734,2.72E-65
+ACU,CCW corriente,2,0,0,0,0,18,1,20,120,-485165195.4,9.99E-66
+ACU,CCW corriente,1,0,0,0,0,9,1,20,120,-485165195.4,9.99E-66
+Etiqueta autolevel,Burbuja,0,3,0,0,0,27,46,19,4619,-178482301,3.68E-66
+Lid Plastico,Bumper mal ensamblado,1,0,0,0,0,9,62,18,6218,-65659969.14,1.35E-66
+Lid metalico,Bumper ausente,0,0,1,0,0,9,63,17,6317,-24154952.75,4.97E-67
+LID,Bumper ausente,2,2,0,0,0,36,60,17,6017,-24154952.75,4.97E-67
+Tarjeta Robin,Botón fuera de especificación,0,0,2,0,0,18,88,16,8816,-8886110.521,1.83E-67
+Fascia,Botón fuera de especificación,5,1,0,0,0,55,53,16,5316,-8886110.521,1.83E-67
+Fascia,Boton trabado,0,0,0,0,1,9,53,15,5315,-3269017.372,6.73E-68
+Mega,Boton ausente,0,0,2,0,0,18,71,14,7114,-1202604.284,2.48E-68
+ACU,Bomba de vacio,2,0,0,0,0,18,1,13,113,-442413.392,9.11E-69
+Lid Plastico,Bisagra mal ensamble,0,120,0,0,0,1093,62,12,6212,-162754.7914,3.35E-69
+Top panel,Bezel ausente,0,0,4,0,0,36,89,11,8911,-59874.14172,1.23E-69
+Canasta drum,Base golpeado / quebrado,0,0,1,0,0,9,35,10,3510,-22026.46579,4.54E-70
+Canasta drum,Balance golpeado / quebrado,0,0,1,0,0,9,35,9,359,-8103.083928,1.67E-70
+TRANSMISIÓN,Ausente,0,1,0,0,0,9,85,8,858,-2980.957987,6.14E-71
+Nut,Ausente,0,3,0,0,0,27,72,8,728,-2980.957987,6.14E-71
+LABEL SCALE LEVEL,Ausente,0,9,7,0,0,146,59,8,598,-2980.957987,6.14E-71
+Etiqueta garanía,Ausente,0,7,0,0,0,64,52,8,528,-2980.957987,6.14E-71
+Etiqueta de energía,Ausente,0,30,6,0,0,328,51,8,518,-2980.957987,6.14E-71
+Etiqueta de atención,Ausente,0,2,1,0,0,27,50,8,508,-2980.957987,6.14E-71
+Etiqueta conagua,Ausente,0,3,1,0,0,36,48,8,488,-2980.957987,6.14E-71
+Etiqueta capacidad,Ausente,0,2,0,0,0,18,47,8,478,-2980.957987,6.14E-71
+Etiqueta autolevel,Ausente,0,3,0,0,0,27,46,8,468,-2980.957987,6.14E-71
+Etiqueta Serial,Ausente,0,1,0,0,0,9,45,8,458,-2980.957987,6.14E-71
+Dispenser sencillo,Ausente,0,0,2,0,0,18,43,8,438,-2980.957987,6.14E-71
+DISPENSADOR,Ausente,0,1,0,0,0,9,42,8,428,-2980.957987,6.14E-71
+Carton tag,Ausente,0,1,0,0,0,9,36,8,368,-2980.957987,6.14E-71
+COVER PULLEY,Ausente,0,0,2,0,0,18,32,8,328,-2980.957987,6.14E-71
+Bumper,Ausente,0,3,0,0,0,27,28,8,288,-2980.957987,6.14E-71
+BANDA,Ausente,0,6,11,0,0,155,20,8,208,-2980.957987,6.14E-71
+Auger agitador,Ausente,0,2,0,0,0,18,18,8,188,-2980.957987,6.14E-71
+Air dome,Ausente,0,4,3,0,0,64,13,8,138,-2980.957987,6.14E-71
+AGITADOR,Ausente,0,15,0,0,0,137,4,8,48,-2980.957987,6.14E-71
+Mega,Arnes dañado,1,0,0,0,0,9,71,7,717,-1096.633158,2.26E-71
+ARNES DE CAPACITOR,Arnes atrapado,0,0,1,0,0,9,9,6,96,-403.4287935,8.31E-72
+Top panel,Amarillo,2,0,0,0,0,18,89,5,895,-148.4131591,3.06E-72
+TRANSMISIÓN,Agrietado,0,0,1,0,0,9,85,4,854,-54.59815003,1.12E-72
+Planetario,Agrietado,0,1,0,0,0,9,78,4,784,-54.59815003,1.12E-72
+MOTOR,Agrietado,0,2,3,0,0,46,69,4,694,-54.59815003,1.12E-72
+Channel top rear,Agrietado,0,7,0,0,0,64,38,4,384,-54.59815003,1.12E-72
+Bracket metalico,Agrietado,0,34,0,0,0,310,27,4,274,-54.59815003,1.12E-72
+BOBINA DE VALVULA,Agrietado,0,0,0,0,1,9,22,4,224,-54.59815003,1.12E-72
+ACU,Agitacion CWW / falla agitación motor,2,0,0,0,0,18,1,3,13,-20.08553692,4.14E-73
+BOMBA,Abrazadera mal ensamblada,0,11,0,0,0,100,24,2,242,-7.389056099,1.52E-73
+VÁLVULA,Abierta,1,0,2,1,16,182,92,1,921,-2.718281828,5.60E-74
+TRANSMISIÓN // ACTUADOR,Abierta,0,0,0,0,1,9,86,1,861,-2.718281828,5.60E-74
+BOMBA,Abierta,0,0,0,0,3,27,24,1,241,-2.718281828,5.60E-74
+MOTOR,Abanico quebrado,1,0,0,0,0,9,69,0,690,-1,2.06E-74
+,,,,,,,,,,,-4.86E+73,
